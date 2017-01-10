@@ -29,7 +29,7 @@ h1 {
 /* Insert CSS for ears below this line*/
 #ears_image {
   top: 110px;
-  left: 58px
+  left: 58px;
 }
 
 
@@ -75,7 +75,10 @@ h1 {
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image {
+  top:295px;
+  left:45px;
+}
 
 
 
