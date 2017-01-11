@@ -3,7 +3,7 @@ h1 {
 }
 
 
-#potato img {
+#potato {
   position: relative;
   width: 367px;
   height: 500px;
@@ -13,7 +13,7 @@ h1 {
   background-color: white;
 }
 
-#potato {
+img {
   position: absolute;
 }
 
