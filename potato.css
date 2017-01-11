@@ -23,7 +23,10 @@ h1 {
 }
 /* Insert CSS for arms below this line*/
 
-
+#arms_image{
+  top: 120px;
+  left:10px;
+}
 
 
 /* Insert CSS for ears below this line*/
